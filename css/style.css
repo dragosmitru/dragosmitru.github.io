@@ -3,6 +3,6 @@ nav ul {
   list-style: none;
 }
 
-nav ul a {
+nav ul li a {
   text-transform: none;
 }

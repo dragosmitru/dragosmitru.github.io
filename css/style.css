@@ -3,7 +3,7 @@ nav ul {
 }
 
 nav ul li {
-  display: flex;
+  display: inline;
 }
 
 nav ul a {

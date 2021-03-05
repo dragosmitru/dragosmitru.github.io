@@ -2,3 +2,7 @@ nav ul {
   diplay: inline;
   list-style: none;
 }
+
+nav ul a {
+  text-transform: none;
+}

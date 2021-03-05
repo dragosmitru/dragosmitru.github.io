@@ -3,8 +3,16 @@ nav ul {
   list-style: none;
 }
 
+nav ul li {
+  display: flex;
+}
+
 nav ul li a {
   text-transform: none;
   text-decoration: none;
   color: #000000;
+}
+
+section slider {
+
 }

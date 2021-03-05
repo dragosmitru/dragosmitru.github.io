@@ -1,6 +1,9 @@
 nav ul {
-  diplay: inline;
   list-style: none;
+}
+
+nav ul li {
+  display: inline;
 }
 
 nav ul li a {

@@ -6,10 +6,16 @@ nav ul li {
   display: flex;
 }
 
+nav ul a {
+  text-transform: none;
+  text-decoration: none;
+  color: black;
+}
+
 nav ul li a {
   text-transform: none;
   text-decoration: none;
-  color: #000000;
+  color: black;
 }
 
 section slider {

@@ -811,7 +811,6 @@ footer .footer-copyright p {
   #cta,
   #team, #service,
   #contact {
-  padding-top: 80px;
   padding-bottom: 80px;
 }
 
@@ -845,7 +844,7 @@ footer .footer-copyright p {
 @media (max-width: 650px) {
 
   #home {
-    height: 100vh;
+    height: 60vh;
   }
 
   h1 {
